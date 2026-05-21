@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
+![image alt](https://github.com/darpanthakur1002-creator/darpan-thakur/blob/a82688b2e722d5ba1fdce0a69913a0a7ec08f592/Screenshot%202026-05-21%20011339.png)
     <header>
         <h1>Darpan Thakur</h1>
         <p>Frontend Developer | Java Learner | Student</p>
